@@ -9,6 +9,8 @@ Mysql operations-
     create a new database/schema with name 'Books' with user 'root' and password '9767441488'.
 
 Django operations-
+    Run command "virt/Scripts/activate" tu activate the virtual environment.A requirement.txt file is also add in project directory if any dependencies are missing.
+    Run command "python manage.py runserver" to run the server from directory "LibraryProject".
     You can get data from django and database using address- http://127.0.0.1:8000/list/ to get all the data from database.
     To get single data use this link http://127.0.0.1:8000/1/ just change the value '1' and you can get data for single book.
-    you can add a book or delete a book or update a book.
+    You can add a book or delete a book or update a book.
